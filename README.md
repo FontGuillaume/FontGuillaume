@@ -36,15 +36,12 @@
 
 ---
 
-## 📊 GitHub en un coup d’œil
+## 📈 Contributions récentes
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=GuillaumeFont&theme=tokyonight&hide_border=true" alt="streak stats" />
+  <img src="https://ghchart.rshah.org/GuillaumeFont" alt="GitHub chart" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFont&theme=tokyonight&hide_border=true" alt="contribution streak" />
-</p>
 
 
 ---
