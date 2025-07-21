@@ -58,7 +58,7 @@
 
 <p align="center">
   <a href="mailto:guillaume_font@orange.fr"><img src="https://img.shields.io/badge/Email-guillaume_font@orange.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/guillaume-font-045778330guillaume-font-045778330/"><img src="https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/guillaume-font-045778330/"><img src="https://img.shields.io/badge/LinkedIn-Profil-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
