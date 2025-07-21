@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Salut, moi c'est Guillaume
 
-<!--
-**FontGuillaume/FontGuillaume** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenue sur mon GitHub ! Je suis développeur passionné en reconversion 🚀  
+Actuellement en formation chez Holberton School.
 
-Here are some ideas to get you started:
+## 🧰 Langages et outils
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![HTML](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Stats GitHub
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GuillaumeFont&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeFont&layout=compact&theme=tokyonight)
+
+## 📫 Me contacter
+- 📧 guillaume_font@orange.fr
+- 🧑‍💻 [Mon LinkedIn](https://www.linkedin.com/in/ton-profil)
