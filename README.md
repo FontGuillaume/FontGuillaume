@@ -36,12 +36,16 @@
 
 ---
 
-## 📊 Stats GitHub
+## 📊 GitHub en un coup d’œil
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuillaumeFont&show_icons=true&theme=tokyonight" alt="github stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillaumeFont&layout=compact&theme=tokyonight" alt="top langs"/>
+  <img src="https://streak-stats.demolab.com/?user=GuillaumeFont&theme=tokyonight&hide_border=true" alt="streak stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuillaumeFont&theme=tokyonight&hide_border=true" alt="contribution streak" />
+</p>
+
 
 ---
 
